@@ -2,12 +2,35 @@
 LyricsInsightStudio 🎵✨ | Unlocking the Heart of Music with Retrieval-Augmented Generation. Dive deep into lyrics, discover hidden meanings, and craft melodies that resonate. Where technology meets creativity, one verse at a time. 🎤🚀
 
 ## The components for the Web Application
+---
+Application Home Page - 
 ![Lyrics Insight Studio](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Home.png)
+---
+
+---
+Generate Original Lyrics - RAG Approach
 ![Original Lyrics Generation using RAG](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Generate-Original-Lyrics.png)
+---
+
+---
+Lyrics Vectordata chat
 ![Chat with Lyrics](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Lyrics-VDB-Chat.png)
-![Lyrics Data Analysis](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Lyrics-Analysis.png)
+---
+
+---
+Analytics on the lyrics data
+![Lyrics Data Analysis](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Lyrics-Analytics.png)
+---
+
+---
+Search different lyrics - Hybrid Search on Vectordatabase
 ![Search Lyrics in the Vector Database](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Search-Lyrics-Database.png)
+---
+
+---
+Application Settings
 ![Web Application Settings](https://github.com/AILucifer99/Lyrics-Insight-Studio/blob/main/architecture/Settings.png)
+---
 
 ## 📖 Overview
 
