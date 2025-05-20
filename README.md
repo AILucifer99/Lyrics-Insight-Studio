@@ -1,5 +1,5 @@
 # Lyrics Insight Studio - Retrieval Augemented Generation for Music
-LyricsInsightStudio 🎵✨ | Unlocking the Heart of Music with Retrieval-Augmented Generation. Dive deep into lyrics, discover hidden meanings, and craft melodies that resonate. Where technology meets creativity, one verse at a time. 🎤🚀
+Lyrics Insight Studio 🎵✨ - Unlocking the Heart of Music with Retrieval-Augmented Generation. Dive deep into lyrics, discover hidden meanings, and craft melodies that resonate. Where technology meets creativity, one verse at a time. 🎤🚀
 
 ## The components for the Web Application
 
