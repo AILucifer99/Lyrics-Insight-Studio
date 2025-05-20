@@ -185,8 +185,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/lyrics-insight-studio](https://github.com/yourusername/lyrics-insight-studio)
+Project Link: [https://github.com/AILucifer99/Lyrics-Insight-Studio](https://github.com/AILucifer99/Lyrics-Insight-Studio)
 
 ---
 
-Made with ❤️ for lyric lovers everywhere
+Made with ❤️ by AILucifer99 for lyric lovers everywhere
